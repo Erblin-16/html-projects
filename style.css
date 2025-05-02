@@ -1,0 +1,31 @@
+body{
+    background-color: khaki;
+}
+h1{
+    color: crimson;
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#text{
+    color: lightcoral;
+    font-style: italic;
+}
+li{
+    background-color: darkorchid;
+    color: black;
+    text-align: center;
+    list-style-type: none;
+}
+div{
+    background-color: aqua;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: right;
+}
+.test{
+    font-size: 20px;
+}
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: deepskyblue;
+    text-align: center;
+}
